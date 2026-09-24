@@ -25,18 +25,25 @@ The bot works like a telecom customer support assistant. It reads what the user 
 
    python Project_1.py
 
+
 ## 💬 Sample Conversation
+
+```text
 You: help
 AIRTEL BOT: You can ask me about:
-
-no internet
-slow internet
-router not working
-...
+- no internet
+- slow internet
+- router not working
+- how to check balance
+- how to recharge
+- how to pay bill
+- network issue
+- sim not working
+- customer care number
 
 You: no internet
 AIRTEL BOT: Please restart your router and wait for 2 minutes.
-
+```
 
 ## 📸 Output Screenshot
 <img width="1365" height="721" alt="Screenshot 2026-09-24 215611" src="https://github.com/user-attachments/assets/44470dea-55c7-4686-806d-18971662f888" />
